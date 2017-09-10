@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/CN-Tower/magnifier/issues"
   },
-  "homepage": "https://github.com/CN-Tower/magnifier#readme",
-  "dependencies": {
-    "html2canvas": "^0.5.0-beta4",
-    "jquery": "^3.2.1"
-  }
+  "homepage": "https://github.com/CN-Tower/magnifier#readme"
 }
