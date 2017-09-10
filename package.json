@@ -1,11 +1,26 @@
 {
-  "name": "magnifier",
+  "name": "web-page-magnifier",
   "version": "1.0.0",
-  "description": "web-pages-magnifier",
+  "description": "Web-Magnifier is a web pages magnifier plugin, based on jQuery and html2canvas plugin.",
   "main": "magnifier.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CN-Tower/magnifier.git"
+  },
+  "keywords": [
+    "web-page-magnifier"
+  ],
+  "author": "@CN-Tower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CN-Tower/magnifier/issues"
+  },
+  "homepage": "https://github.com/CN-Tower/magnifier#readme",
+  "dependencies": {
+    "html2canvas": "^0.5.0-beta4",
+    "jquery": "^3.2.1"
+  }
 }
